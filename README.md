@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagar-Potdar
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web and android development development
 - 📫 You can reach me - sagarshridharpotadar@gmail.com
 
 <!---
