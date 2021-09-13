@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagar-Potdar
 - 👀 I’m interested in learning new technology
 - 🌱 I’m passionate in Web and android development development
-- 📫 You can reach me - sagarshridharpotadar@gmail.com
+- 📫 You can reach me - sagarshridharpotdar@gmail.com
 
 <!---
 Sagar-Potdar/Sagar-Potdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
