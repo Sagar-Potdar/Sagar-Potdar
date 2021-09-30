@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagar-Potdar
 - 👀 I’m interested in learning new technology
-- 🌱 I’m passionate in Web development and analytics
+- 🌱 I’m passionate in Web development and data analytics
 - 📫 You can reach me - sagarshridharpotdar@gmail.com
 
 <!---
